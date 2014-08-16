@@ -1,13 +1,13 @@
 <?php
 
 //This is the name of your server where the MySQL database is running
-$dbserver="204.11.58.166:3306";
+$dbserver="db-server";
 
 //username of the MySQL server
-$dbuser="dbadmin";
+$dbuser="db-user";
 
 //password
-$dbpass="dbpass";
+$dbpass="db-pass";
 
 //database name
 $db="edugrmq5_db";
