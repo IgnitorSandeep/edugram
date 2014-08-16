@@ -3,7 +3,7 @@
 	$link;
 	if(isset($_SESSION['username'])){  
 		//echo $_SESSION['username'];
-		$link = mysql_connect ("204.11.58.166:3306", "dbadmin","dbpass")  or die (mysql_error());
+		$link = mysql_connect ("db-server", "db-user","db-pass")  or die (mysql_error());
 		mysql_select_db ("edugrmq5_db",$link);
 	}else{
 			header('Location: index.php');
@@ -115,7 +115,7 @@
 					<!-- this is to update from database-->
                     <ul class="dropdown-menu dropdown-messages">
 							<?php
-							mysql_connect ("204.11.58.166:3306", "dbadmin","dbpass")  or die (mysql_error());
+							mysql_connect ("db-server", "db-user","db-pass")  or die (mysql_error());
 							mysql_select_db ("edugrmq5_db");
 							$sql = mysql_query("select email,query,time from contactus order by time desc limit 3");
 
