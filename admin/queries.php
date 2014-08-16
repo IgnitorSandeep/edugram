@@ -1,6 +1,6 @@
 <?php
 	echo "<h4>Queries</h4>";
-	$link = mysql_connect ("204.11.58.166:3306", "dbadmin","dbpass")  or die (mysql_error());
+	$link = mysql_connect ("db-server", "db-user","db-pass")  or die (mysql_error());
 	mysql_select_db ("edugrmq5_db",$link);
 	$result = mysql_query("select * from contactus where isreplied=0 order by _id",$link);
 	$count=1;
