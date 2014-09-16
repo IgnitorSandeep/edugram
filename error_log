@@ -1,10 +1,46 @@
-[22-May-2014 22:28:08 Etc/GMT] PHP Warning:  require_once(/recaptcha-php/recaptchalib.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/sandes59/public_html/edugram/contact.php on line 96
-[22-May-2014 22:28:08 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/recaptcha-php/recaptchalib.php' (include_path='.:/usr/local/altphp/lib/php') in /home/sandes59/public_html/edugram/contact.php on line 96
-[22-May-2014 22:28:45 Etc/GMT] PHP Warning:  require_once(/recaptcha-php/recaptchalib.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/sandes59/public_html/edugram/contact.php on line 96
-[22-May-2014 22:28:45 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/recaptcha-php/recaptchalib.php' (include_path='.:/usr/local/altphp/lib/php') in /home/sandes59/public_html/edugram/contact.php on line 96
-[22-May-2014 22:45:22 Etc/GMT] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'sandes59'@'208.91.198.98' (using password: NO) in /home/sandes59/public_html/edugram/verify.php on line 27
-[22-May-2014 22:45:22 Etc/GMT] PHP Warning:  mysql_selectdb() expects parameter 2 to be resource, boolean given in /home/sandes59/public_html/edugram/verify.php on line 29
-[22-May-2014 22:45:22 Etc/GMT] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sandes59'@'localhost' (using password: NO) in /home/sandes59/public_html/edugram/verify.php on line 33
-[22-May-2014 22:45:22 Etc/GMT] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sandes59/public_html/edugram/verify.php on line 33
-[23-May-2014 04:45:46 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sandes59/public_html/edugram/verify.php:15) in /home/sandes59/public_html/edugram/verify.php on line 42
-[23-May-2014 04:52:21 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sandes59/public_html/edugram/verify.php:15) in /home/sandes59/public_html/edugram/verify.php on line 42
+[11-Sep-2014 17:10:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[11-Sep-2014 19:25:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[11-Sep-2014 19:25:42 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 10:11:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 12:21:20 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 12:33:30 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 13:11:50 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 13:53:23 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 13:55:34 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 13:59:05 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:02:38 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:03:07 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:03:19 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:06:35 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:10:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:11:48 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:17:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:17:52 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:19:44 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:45:43 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 14:55:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 15:01:03 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 15:01:04 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 15:14:22 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 15:22:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 17:02:16 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 17:03:17 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 17:06:05 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 17:20:50 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 18:20:56 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[12-Sep-2014 22:11:03 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 01:58:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 03:17:59 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 04:46:14 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 07:07:18 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 07:53:13 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 13:26:04 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 14:12:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 17:23:00 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 17:34:31 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 17:44:24 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/index.php on line 287
+[13-Sep-2014 17:46:53 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sandeeui/public_html/edugram.org/dbcheck.php on line 5
+[13-Sep-2014 17:49:48 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'sandeeui_edugram'@'localhost' to database 'sandeeui_edugram' in /home/sandeeui/public_html/edugram.org/dbselect.php on line 2
+[13-Sep-2014 17:49:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/sandeeui/public_html/edugram.org/dbselect.php on line 8
+[13-Sep-2014 17:49:48 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/sandeeui/public_html/edugram.org/dbselect.php on line 10
+[13-Sep-2014 17:49:48 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/sandeeui/public_html/edugram.org/dbselect.php on line 15

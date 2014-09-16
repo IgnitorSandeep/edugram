@@ -224,25 +224,25 @@ include_once 'header.php';
 
                 <!-- main slider carousel info text -->
                 <div class="col-md-4" id="carousel-text" style="height:500px">
-					<div  class="row panel panel-primary" style="max-height:135px;margin-top:5px;">
+					<div  class="row panel panel-primary" style="max-height:138px;margin-top:7px; font-size: 95%;">
 						<div class="panel-body" ><strong>Choosing Right Career</strong></div>
-						<div id="slide-content-0" class="panel-footer" style="display:none;"><p>We help choosing right career by  assessing the talent of students, providing right educational information, counselling, organize events...<a href="http://edugram.org/theme/choosing_right_career.php">Read more </a></p></div>
+						<div id="slide-content-0" class="panel-footer" style="display:none;text-overflow: ellipsis;overflow: hidden; font-size: 95%;"><p align="justify">Students need help in understanding their talent and matching career, right information to take uninfluenced decision and their interest area...<a href="http://edugram.org/theme/choosing_right_career.php">Read more </a></p></div>
 					</div>
-					<div   class="row panel panel-primary" style="max-height:135px;">
+					<div   class="row panel panel-primary" style="max-height:138px;text-overflow: ellipsis;overflow: hidden; font-size: 95%;">
 						<div class="panel-body"><strong>Honouring Talents</strong></div>
-						<div id="slide-content-1" class="panel-footer" style="display:none;"><p>We also organize a Talent Search  &amp; Multiple Intelligence Test which is designed to recognize their talent.We honour student with some ...<a href="http://edugram.org/gallery.php">Read more</a></p></div>
+						<div id="slide-content-1" class="panel-footer" style="display:none;"><p align="justify">Talent, focus and motivation are key ingredients of success. To keep students and youth motivated and focused; Edugram organizes events to awards, honour and recognize talent. ...<a href="http://edugram.org/gallery.php">Read more</a></p></div>
 					</div>
-					<div  class="row panel panel-primary" style="max-height:135px;">
+					<div  class="row panel panel-primary" style="max-height:138px;text-overflow: ellipsis;overflow: hidden; font-size: 95%;">
 						<div class="panel-body"><strong>Educational Information</strong></div>
-						<div id="slide-content-2" class="panel-footer" style="display:none;"><p>Edugram provide educational information which helps students to decide their career according to their capability and interest...<a href="#">Read more</a></p></div>
+						<div id="slide-content-2" class="panel-footer" style="display:none;text-overflow: ellipsis;overflow: hidden;"><p  align="justify">In career decisions students have to deal with over-information, sponsored information, biased and under-information. Providing unbiased and complete information is target of Edugram...<a href="#">Read more</a></p></div>
 					</div>
-					<div  class="row panel panel-primary" style="max-height:135px;">
-						<div class="panel-body"><strong>Self Help Groups</strong></div>
-						<div id="slide-content-3" class="panel-footer" style="display:none;"><p>We all face problems in life and at some course time it get resolve.But while facing initially almost all problem seems like difficult...<a href="http://edugram.org/theme/self_help.php">Read more</a></p></div>
+					<div  class="row panel panel-primary" style="max-height:138px;text-overflow: ellipsis;overflow: hidden; font-size: 95%;">
+						<div class="panel-body"><strong>Self-help Groups &amp; libraries</strong></div>
+						<div id="slide-content-3" class="panel-footer" style="display:none;"><p align="justify">Edugram helps in setting  self-help and study  group for interested students and youth of local community. Depending upon need Edugram can pitch-in to help in setting small library or book club....<a href="http://edugram.org/theme/self_help.php">Read more</a></p></div>
 					</div>
-					<div  class="row panel panel-primary" style="max-height:135px;">
-						<div class="panel-body"><strong>Students Library</strong></div>
-						<div id="slide-content-4" class="panel-footer" style="display:none;"><p>Edugram manages a library for students. We provide books for underprivileged students.All of academic books can be issued to students ...<a href="http://edugram.org/theme/library_for_students.php">Read more</a></p></div>
+					<div  class="row panel panel-primary" style="max-height:138px;text-overflow: ellipsis;overflow: hidden; font-size: 95%;">
+						<div class="panel-body"><strong>Mentoring</strong></div>
+						<div id="slide-content-4" class="panel-footer" style="display:none;"><p align="justify">Students need continuous motivation, focus, advice, information and counselling. Edugram Volunteers intend to give personalized help to the students...<a href="http://edugram.org/theme/library_for_students.php">Read more</a></p></div>
 					</div>
 				</div>
             </div>
@@ -259,16 +259,15 @@ include_once 'header.php';
 
         <div class="col-md-4">
             <h2>About Edugram</h2>
-            <p align="justify">Edugram is an organized effort towards helping needy students and career seeker in making right educational and  career move.</p>
-            <p align="justify">We help in assessing the talent of students, providing right educational information, counselling, organize events, help in forming self-study groups, providing books to needy students.</p>
+            <p align="justify">Edugram is an effort towards for helping students and career seekers of underprivileged strata of our society in making right educational and career move.</p>
+            <p align="justify">Assessing talent and suggesting right career, providing right educational information, counselling, organizing events, helping in forming self-study groups, providing books to needy students are some of the modes of Edugram programs.</p>
 			<p><a href="http://edugram.org/about/aboutus.php">Read more</a></p>
 	   </div>
 
         <div class="col-md-4">
             <h2>Events</h2>
-			<p align="justify">Edugram organizes events every year at some places to interact with students, to provide education and career information, and to motivate them for studies.
-			Edugram also conducts some assessment to understand suitable career and education field for a person.</p>
-            <p align="justify">Please write us at <a href="mailto:edugramorg@gmail.com">edugramorg[at]gmail[dot]com</a>. if you want to organize such event at your place.</p>
+			<p align="justify">Edugram organizes events every year at some places to interact with students, to provide education and career information, and to motivate them for studies. Edugram also conducts some assessment to understand suitable career and education field for a person.</p>
+            <p align="justify">Please write us at <a href="mailto:edugramorg@gmail.com">edugramorg[at]gmail[dot]com</a>.</p>
 			<p><a href="http://edugram.org/event_2013.php">Read More</a></p>
         </div>
 		
@@ -278,9 +277,9 @@ include_once 'header.php';
 				<div class="panel-heading"><Strong>Recent News</strong></div>
 				<div class="panel-body">					
 					<?php
-						$link = mysql_connect ("db-server", "db-user","db-pass")  or die (mysql_error());
-						mysql_select_db ("edugrmq5_db",$link);
-						$result = mysql_query("select * from recents where verified=1 order by _id",$link);
+						$link = mysql_connect ("localhost","sandeeui_edugram","dbpass123")  or die (mysql_error());
+						@mysql_select_db ("sandeeui_edugram",$link);
+						$result = mysql_query("select * from recents where verified=1",$link);
 						//$num_rows=mysql_num_rows($result);
 						//echo $num_rows;
 						//$imagepath="image/icons/arrow.png";
@@ -291,7 +290,7 @@ include_once 'header.php';
 								?>
 								<img src="image/icons/arrow.png" alt="- ">
 								<?php
-								echo"<a href=".$row[link].">";
+								echo"<a href=".$row[link]." target='_blank'>";
 								echo " ".$row['title'];
 								echo "</a>";
 								echo"</p>";
@@ -318,8 +317,8 @@ include_once 'header.php';
 
     <!-- quick links to suggestions volunteer partnership mi test -->
     <div class="row">
-
-        <div class=" col-md-2  col-lg-2 col-md-offset-1  col-lg-offset-1">
+	
+        <div class=" col-md-2  col-lg-2 col-md-offset-2  col-lg-offset-2">
             <p><a class="featurette-image img-responsive img-circle" href="#" class="btn btn-lg btn-success" data-toggle="modal" data-target="#suggestion"><img src="image/icons/suggestion.png" alt="suggestion"  width="140" height="140"></a></p>
         </div>
 		
@@ -330,10 +329,6 @@ include_once 'header.php';
 		<div class="col-md-2 col-lg-2">
             <p><a href="#" data-toggle="modal" data-target="#joinus"><img class="featurette-image img-responsive img-circle" src="image/icons/volunteer.jpg" alt="volunteer"  width="140" height="120"></a></p>
         </div>
-
-        <div class="col-md-2 col-lg-2">
-            <p><a href="http://www.bgfl.org/bgfl/custom/resources_ftp/client_ftp/ks3/ict/multiple_int/questions/choose_lang.cfm" target="_blank"> <img class="featurette-image img-responsive img-circle" src="image/icons/mitest.jpg" alt="mi test"  width="140" height="140"></a></p>
-        </div>     
 
         <div class="col-md-2 col-lg-2">
             <p><a href="http://edugram.org/theme/library_for_students.php" ><img class="featurette-image img-responsive img-circle" src="image/icons/lib.png" alt="library"  width="140" height="120"></a></p>

@@ -28,15 +28,13 @@
 			//echo $country;
 			$message = $_POST['query'];
 			//echo $message;				
-			$conn = @mysql_connect("db-server","db-user","db-pass");
-			//echo mysql_error();
-			@mysql_selectdb('edugrmq5_db',$conn);
-			
+			include 'dbsetting.php';
+			$conn = @mysql_connect($mysql_host,$mysql_user,$mysql_password);
+			@mysql_selectdb($mysql_database,$conn);
 			$query1="insert into contactus (email,name,phone,country,query) values('".$email."','".$name."','".$phone."','".$country."','".$message."')";
-			
 			$result = mysql_query($query1);
 			 if(!$result){
-				//echo mysql_error();
+				echo mysql_error();
 				$success =false;
 				$msg="Error while submitting data";
 				header("Location: contact.php?err=$msg");
@@ -47,7 +45,6 @@
 				//echo 'successfullty inserted row ';
 				$msg="Thanks for contacting us.we will be back to you soon !";
 				header("Location: contact.php?err=$msg");
-			 }
-					
+			 }				
 		}
   ?>
